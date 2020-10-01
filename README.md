@@ -18,7 +18,7 @@ git clone https://github.com/akrish4/Learn-By-Write.git
 ```
 * change the present working directory
 ```markdown
-cd Learn-by-Write
+cd Learn-By-Write
 ```
 * Pick a project or make a new one
 * Make a new branch
