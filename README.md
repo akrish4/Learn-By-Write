@@ -33,7 +33,7 @@ git commit -m "Your commit Message"
 git push origin brach-name
 ```
 * Make a pull request.
-
+* I will check it and will merge it
 
 
 
