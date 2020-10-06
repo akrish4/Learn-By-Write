@@ -5,10 +5,11 @@ This is a open source contribution repository , Anyone can fork , and make chang
 
 ### Process are as follows :- 
 * Have a github account  
-* Star thr repo
-* Fork it
-* Make Changes 
-* Make a PR
+* Star the repository.
+* Fork it.
+* Make Changes. 
+* Make a PR.
+And now you are ready to contribute.
    
 ### How to Contribute to this repository
 * Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)
