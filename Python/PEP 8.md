@@ -20,3 +20,10 @@ by any other developer.
      print('Hello!')
    ###### Bad 
      print( 'Hello!' )
+### Avoid an extra space before an open parenthesis.
+   ###### Good
+     print('some text')
+   ###### Bad 
+     print ('some text')
+# 4.Quotes
+ - you can use either single or double quotes to define strings. Please, choose one that you like the most and consistently use it in your code. The only recommendation in PEP 8 is that if a string contains single or double quotes, you should use the other one to avoid backslashes.
