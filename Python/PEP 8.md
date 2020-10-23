@@ -16,6 +16,7 @@ by any other developer.
    - Sometimes you may add some spaces even if you don't really need it. This will reduce the readability of your code.
 ### Avoid extra spaces within parentheses.
    
-   
+   ##### Good
      print('Hello!')
-      
+   ###### Bad 
+     print( 'Hello!' )
