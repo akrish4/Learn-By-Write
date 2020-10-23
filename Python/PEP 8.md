@@ -10,11 +10,12 @@ style for all python projects as if they were written by the same programmer. Th
 by any other developer.
 # PEPs
  - Before going further, let’s talk about PEP for a moment. PEP stands for *Python Enhancement Proposal*. There are different types of PEP and the most useful one for beginners is the informational PEP. PEPs of this kind typically describe commonly accepted guidelines or conventions about the language, so they can be very helpful. Besides PEP 8, which is an official style guide, another great PEP to look at is the ***Zen of Python***.
- # The length of a line
+# The length of a line
   - Do not use more than 79 characters in a line of code. Shorter lines look better in code editors. During this course, we will learn several ways to achieve it.
-  # Avoid extra spaces
+# Avoid extra spaces
    - Sometimes you may add some spaces even if you don't really need it. This will reduce the readability of your code.
-    ## Avoid extra spaces within parentheses.
-     '''
+### Avoid extra spaces within parentheses.
+   
+   
      print('Hello!')
-      '''
+      
