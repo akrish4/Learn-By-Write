@@ -27,3 +27,7 @@ by any other developer.
      print ('some text')
 # 4.Quotes
  - you can use either single or double quotes to define strings. Please, choose one that you like the most and consistently use it in your code. The only recommendation in PEP 8 is that if a string contains single or double quotes, you should use the other one to avoid backslashes.
+    ###### Good
+       print("It's a good string!")
+    ###### Bad
+       print('It\'s a bad string!')
