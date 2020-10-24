@@ -11,3 +11,6 @@
   named variable with an equal sign. Also, following PEP 8, one space before and after the assignment sign is considered good practice.
       
         day_of_week = "Monday"
+ - Now you have a string typed value "Monday" stored in computer memory. You can retrieve the value by calling the variable name.
+   
+        print(day_of_week)  # Monday
