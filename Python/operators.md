@@ -53,3 +53,4 @@ The minus operator has a unary form that negates the value or expression. A posi
 #### Exponentiation. Here is a way to raise a number to a power:
 
     print(10 ** 2)  # 100
+**This operation has a higher priority over multiplication.**
