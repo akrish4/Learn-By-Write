@@ -36,3 +36,15 @@ The minus operator has a unary form that negates the value or expression. A posi
   
     print(7 % 2)  # 1, because 7 is an odd number
     print(8 % 2)  # 0, because 8 is an even number
+#### Here are some more examples:
+
+    # Divide the number by itself
+    print(4 % 4)     # 0
+    # At least one number is a float
+    print(11 % 6.0)  # 5.0
+    # The first number is less than the divisor
+    print(55 % 77)   # 55
+    # With negative numbers, it preserves the divisor sign
+    print(-11 % 5)    # 4
+    print(11 % -5)    # -4
+***Taking the remainder of the division by 0 also leads to ZeroDivisionError.***
