@@ -48,3 +48,6 @@ The minus operator has a unary form that negates the value or expression. A posi
     print(-11 % 5)    # 4
     print(11 % -5)    # -4
 ***Taking the remainder of the division by 0 also leads to ZeroDivisionError.***
+The behavior of the mod function in Python might seem unexpected at first glance. While 11 % 5 = 1 and -11 % -5 = -1 when both numbers on the left are of the same sign, 11 % -5 = -4 and -11 % 5 = 4 if we have one negative number. The thing is, in Python, the remainder always has the same sign as the divisor.
+
+In the first case, 11 % -5 = -4, as the remainder should be negative, we need to compare 15 and 11, not 10 and 11: 11 = (-5) * (-3) + (-4). In the second case, -11 % 5 = 4, the remainder is supposed to be positive: -11 = 5 * (-3) + 4.
