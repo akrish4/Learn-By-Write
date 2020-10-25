@@ -20,3 +20,6 @@
 ##### Python raises an error if you try to divide by zero.
 
       Python raises an error if you try to divide by zero.
+#### Writing complex expressions
+Arithmetic operations can be combined to write more complex expressions:
+
