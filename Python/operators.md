@@ -19,7 +19,21 @@
 
 ##### Python raises an error if you try to divide by zero.
 
-      Python raises an error if you try to divide by zero.
-#### Writing complex expressions
+      ZeroDivisionError: division by zero
+## Writing complex expressions
 Arithmetic operations can be combined to write more complex expressions:
 
+       print(2 + 2 * 2)  # 6
+Like in arithmetic, parentheses can be nested inside each other. You can also use them for clarity.
+
+The minus operator has a unary form that negates the value or expression. A positive number becomes negative, and a negative number becomes positive       
+
+    print(-10)  # -10
+    print(-(100 + 200))  # -300
+    print(-(-20))  # 20
+ ## Other operations
+  - The remainder of a division. Python modulo operator % is used to get the remainder of a division. It may come in handy when you want to check if a number is even. Applied to 2, it returns 1 for odd numbers and 0 for the even ones.
+  
+  
+    print(7 % 2)  # 1, because 7 is an odd number
+    print(8 % 2)  # 0, because 8 is an even number
