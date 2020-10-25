@@ -17,3 +17,6 @@
        print(77 // 10)  # 7
  #### There is a difference between division / and integer division //. The first produces a floating-point number (like 7.7), while the second one produces an integer value (like 7) ignoring the decimal part.
 
+##### Python raises an error if you try to divide by zero.
+
+      Python raises an error if you try to divide by zero.
