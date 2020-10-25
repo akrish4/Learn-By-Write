@@ -32,8 +32,7 @@ The minus operator has a unary form that negates the value or expression. A posi
     print(-(100 + 200))  # -300
     print(-(-20))  # 20
  ## Other operations
-  - The remainder of a division. Python modulo operator % is used to get the remainder of a division. It may come in handy when you want to check if a number is even. Applied to 2, it returns 1 for odd numbers and 0 for the even ones.
-  
+   The remainder of a division. Python modulo operator % is used to get the remainder of a division. It may come in handy when you want to check if a number is even. Applied to    2, it returns 1 for odd numbers and 0 for the even ones.
   
     print(7 % 2)  # 1, because 7 is an odd number
     print(8 % 2)  # 0, because 8 is an even number
