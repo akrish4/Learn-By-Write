@@ -51,3 +51,6 @@
         output_file_path  # yes!
         fpath             # no
         output_flpth      # no
+ - Avoid names from the built-in types list.
+      
+       str = 'Hello!'  # no, because in the further code you can't use str type as it's overridden
