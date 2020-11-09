@@ -7,6 +7,7 @@
   PEP 8 provides some rules for variable names to increase code readability.
  - #### Use lowercase and underscores to split words. Even if it's an abbreviation
      
-     http_response  # yes!
-     httpresponse   # no
-     myVariable     # no, that's from Java
+     
+       http_response  # yes!
+       httpresponse   # no
+       myVariable     # no, that's from Java
