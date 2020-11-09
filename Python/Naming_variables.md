@@ -1,4 +1,4 @@
-## Naming variables
+# Naming variables
  - As you know, every variable has a name that uniquely identifies it among other variables. Giving a good name to 
  a variable may not be as simple as it seems. Experienced programmers are careful when naming their variables to ensure that their programs are easy to
  understand. It is important because programmers spend a lot of time reading and understanding code written by other programmers. If variables have bad names, even your own code 
@@ -31,3 +31,23 @@
           
          class_ = type(var)  # yes!
          klass = type(var)   # no
+## Other variable names best practices
+ There are also some best practices that are common for many programming languages.
+
+ - Choose a name that makes sense. The variable name must be readable and descriptive and should explain to the reader what sort of values will be stored in it.
+        
+       score  # yes!
+       s      # no
+
+       count  # yes!
+       n      # no
+ - Don't use too generic names. Try to choose a name that will explain the meaning of the variable. But don't make it too wordy. 1-3 words are usually enough.
+        
+       http_response                  # yes!
+       var1                           # no
+       http_response_from_the_server  # no, some words can be dropped
+  - If a word is long, try to find the most common and expected short form to make it easier to guess later.
+         
+        output_file_path  # yes!
+        fpath             # no
+        output_flpth      # no
