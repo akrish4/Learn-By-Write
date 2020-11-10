@@ -24,4 +24,9 @@ Imagine you have a credit card with a free air miles bonus program (or maybe you
     print(distance * 2 / miles_per_month)
     
 This program will calculate how many months you need to travel the selected distance and back.
-
+## Advanced forms of assignment
+ Whenever you use an equal sign =, you actually assign some value to a name. For that reason, = is typically referred to as an assignment operator. Meanwhile, there are other assignment operators you can use in Python. They are also called compound assignment operators, for they carry out an arithmetic operation and assignment in one step. Have a look at the code snippet below:
+       
+       # simple assignment
+       number = 10
+       number = number + 1  # 11
