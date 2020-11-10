@@ -52,3 +52,4 @@ In case you need only non-negative integers from the user (we are increasing the
     step = abs(int(input()))  # user types -3
     counter += step
     print(counter)  # it's still 4
+#### As you can see, thanks to the abs() function we got a positive number.
