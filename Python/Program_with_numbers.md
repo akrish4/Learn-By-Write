@@ -38,3 +38,6 @@ This program will calculate how many months you need to travel the selected dist
 One can clearly see from the example that the second piece of code is more concise (for it doesn't repeat the variable's name).
 
 Naturally, similar assignment forms exist for the rest of arithmetic operations: -=, *=, /=, //=, %=, **=. Given the opportunity, use them to save time and effort.
+## Counter variable
+
+In programming, loops are used alongside special variables called counters. A counter counts how many times a particular code is run. It also follows that counters should be integers. Now we are getting to the point: you can use the operators += and -= to increase or decrease the counter respectively.
