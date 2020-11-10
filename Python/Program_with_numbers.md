@@ -30,3 +30,8 @@ This program will calculate how many months you need to travel the selected dist
        # simple assignment
        number = 10
        number = number + 1  # 11
+ This code is equivalent to the following one:
+      
+    # compound assignment
+    number = 10
+    number += 1  # 11
