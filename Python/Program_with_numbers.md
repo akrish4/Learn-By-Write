@@ -41,3 +41,8 @@ Naturally, similar assignment forms exist for the rest of arithmetic operations:
 ## Counter variable
 
 In programming, loops are used alongside special variables called counters. A counter counts how many times a particular code is run. It also follows that counters should be integers. Now we are getting to the point: you can use the operators += and -= to increase or decrease the counter respectively.
+       
+    counter = 1
+    step = int(input())  # let it be 3
+    counter += step
+    print(counter)  # it should be 4, then
