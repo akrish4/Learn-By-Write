@@ -35,3 +35,6 @@ This program will calculate how many months you need to travel the selected dist
     # compound assignment
     number = 10
     number += 1  # 11
+One can clearly see from the example that the second piece of code is more concise (for it doesn't repeat the variable's name).
+
+Naturally, similar assignment forms exist for the rest of arithmetic operations: -=, *=, /=, //=, %=, **=. Given the opportunity, use them to save time and effort.
