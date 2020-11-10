@@ -22,3 +22,6 @@ Imagine you have a credit card with a free air miles bonus program (or maybe you
     # how many months do you need to get
     # a free trip from London to Paris and back
     print(distance * 2 / miles_per_month)
+    
+This program will calculate how many months you need to travel the selected distance and back.
+
