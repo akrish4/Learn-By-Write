@@ -46,3 +46,9 @@ In programming, loops are used alongside special variables called counters. A co
     step = int(input())  # let it be 3
     counter += step
     print(counter)  # it should be 4, then
+In case you need only non-negative integers from the user (we are increasing the counter after all!), you can prevent incorrect inputs by using the abs() function. It is a Python built-in function that returns the absolute value of a number (that is, value regardless of its sign). Let's readjust our last program a bit:
+      
+    counter = 1
+    step = abs(int(input()))  # user types -3
+    counter += step
+    print(counter)  # it's still 4
