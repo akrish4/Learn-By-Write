@@ -28,3 +28,5 @@ There are three built-in boolean operators in Python: and, or and not. The first
               
        to_be = True           # to_be is True
        not_to_be = not to_be  # not_to_be is False
+# The precedence of boolean operations
+Logical operators have a different priority and it affects the order of evaluation. Here are the operators in order of their priorities: not, and, or. So, not is considered first, then and, finally or. Having this in mind, consider the following expression:
