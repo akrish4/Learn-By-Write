@@ -25,3 +25,6 @@ There are three built-in boolean operators in Python: and, or and not. The first
        c = False or False  # False
        d = False or True   # True
  - not is a unary operator, it reverses the boolean value of its argument.
+              
+       to_be = True           # to_be is True
+       not_to_be = not to_be  # not_to_be is False
