@@ -32,3 +32,9 @@ There are three built-in boolean operators in Python: and, or and not. The first
 Logical operators have a different priority and it affects the order of evaluation. Here are the operators in order of their priorities: not, and, or. So, not is considered first, then and, finally or. Having this in mind, consider the following expression:
         
         print(False or not False)  # True
+        
+ First, the part not False gets evaluated, and after evaluation, we are left with False or True. This results in True, if you recall the previous section.
+
+While dealing solely with the boolean values may seem obvious, the precedence of logical operations will be quite important to remember when you start working with so-called truthy and falsy values.
+
+
