@@ -18,3 +18,9 @@ There are three built-in boolean operators in Python: and, or and not. The first
        b = True and False   # False
        c = False and False  # False
        d = False and True   # False
+ - or is a binary operator, it returns True if at least one argument is true, otherwise, it returns False.
+         
+       a = True or True    # True
+       b = True or False   # True
+       c = False or False  # False
+       d = False or True   # True
