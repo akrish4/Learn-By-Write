@@ -10,3 +10,4 @@ If you are writing an application that keeps track of door openings, you'll find
 
      print(is_open)    # True
      print(is_closed)  # False
+# Boolean operations
