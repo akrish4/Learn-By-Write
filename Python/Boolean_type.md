@@ -13,3 +13,8 @@ If you are writing an application that keeps track of door openings, you'll find
 # Boolean operations
 There are three built-in boolean operators in Python: and, or and not. The first two are binary operators which means that they expect two arguments. not is a unary operator, it is always applied to a single operand. First, let's look at these operators applied to the boolean values.
  - There are three built-in boolean operators in Python: and, or and not. The first two are binary operators which means that they expect two arguments. not is a unary operator, it is always applied to a single operand. First, let's look at these operators applied to the boolean values.
+       
+       a = True and True    # True
+       b = True and False   # False
+       c = False and False  # False
+       d = False and True   # False
