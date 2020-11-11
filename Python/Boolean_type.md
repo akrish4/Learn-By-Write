@@ -24,3 +24,4 @@ There are three built-in boolean operators in Python: and, or and not. The first
        b = True or False   # True
        c = False or False  # False
        d = False or True   # True
+ - not is a unary operator, it reverses the boolean value of its argument.
