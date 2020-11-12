@@ -48,5 +48,5 @@ Anything else generally evaluates to True. Here is a couple of examples:
         print(0.0 or False)  # False
         print("True" and True)  # True
         print("" or False)  # False
-
+Generally speaking, and and or could take any arguments that can be tested for a boolean value.
        
