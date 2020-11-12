@@ -36,8 +36,13 @@ Logical operators have a different priority and it affects the order of evaluati
  First, the part not False gets evaluated, and after evaluation, we are left with False or True. This results in True, if you recall the previous section.
 
 While dealing solely with the boolean values may seem obvious, the precedence of logical operations will be quite important to remember when you start working with so-called truthy and falsy values.
+# Truthy and falsy values
+Though Python has the boolean data type, we often want to use non-boolean values in a logical context. And Python lets you test almost any object for truthfulness. When used with logical operators, values of non-boolean types, such as integers or strings, are called truthy or falsy. It depends on whether they are interpreted as True or False.
+The following values are evaluated to False in Python:
 
-'# The precedence of boolean operations
-Logical operators have a different priority and it affects the order of evaluation. Here are the operators in order of their priorities: not, and, or. So, not is considered first, then and, finally or. Having this in mind, consider the following expression:
+ - constants defined to be false: None and False,
+ - zero of any numeric type: 0, 0.0,
+ - empty sequences and containers: "", [], {}.
+Anything else generally evaluates to True. Here is a couple of examples:
+
        
-       print(False or not False)  # True
