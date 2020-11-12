@@ -37,4 +37,7 @@ Logical operators have a different priority and it affects the order of evaluati
 
 While dealing solely with the boolean values may seem obvious, the precedence of logical operations will be quite important to remember when you start working with so-called truthy and falsy values.
 
-
+'# The precedence of boolean operations
+Logical operators have a different priority and it affects the order of evaluation. Here are the operators in order of their priorities: not, and, or. So, not is considered first, then and, finally or. Having this in mind, consider the following expression:
+       
+       print(False or not False)  # True
