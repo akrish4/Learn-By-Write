@@ -44,5 +44,9 @@ The following values are evaluated to False in Python:
  - zero of any numeric type: 0, 0.0,
  - empty sequences and containers: "", [], {}.
 Anything else generally evaluates to True. Here is a couple of examples:
+        
+        print(0.0 or False)  # False
+        print("True" and True)  # True
+        print("" or False)  # False
 
        
