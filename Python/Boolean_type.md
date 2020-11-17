@@ -79,3 +79,4 @@ lazy_or = True or (1 / 0)  # True
 # division is never evaluated, because the first argument is False
 lazy_and = False and (1 / 0)  # False
 ```
+Those were the very basics of boolean values and logical operations in Python. It's definitely good to know them right from the beginning!
