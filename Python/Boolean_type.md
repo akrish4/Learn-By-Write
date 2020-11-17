@@ -54,6 +54,5 @@ Now we can demonstrate more clearly the difference in operator precedence:
 ```python
 # `and` has a higher priority than `or`
 truthy_integer = False or 5 and 100  # 100
-```
-
-       
+```   
+Again, let's break the above expression into parts. Since the operator and has a higher priority than or, we should look at the 5 and 100 part. Both 100 and 5 happen to be truthy values, so this operation will return 100. You have never seen this before, so it's natural to wonder why we have a number instead of the True value here. We'll cover this surprising fact shortly. Coming back to the original expression, you can see that the last part False or 100 does exactly the same thing, returns 100 instead of True.
