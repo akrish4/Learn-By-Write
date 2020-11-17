@@ -49,4 +49,11 @@ Anything else generally evaluates to True. Here is a couple of examples:
         print("True" and True)  # True
         print("" or False)  # False
 Generally speaking, and and or could take any arguments that can be tested for a boolean value.
+
+Now we can demonstrate more clearly the difference in operator precedence:
+```python
+# `and` has a higher priority than `or`
+truthy_integer = False or 5 and 100  # 100
+```
+
        
