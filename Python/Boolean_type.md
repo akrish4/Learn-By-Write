@@ -59,3 +59,8 @@ Again, let's break the above expression into parts. Since the operator and has a
 ```
 The operators or and and return one of their operands, not necessarily of the boolean type. Nonetheless, not always returns a boolean value.
 ```
+Another tricky example is below:
+
+```python
+tricky = not (False or '')  # True
+```
