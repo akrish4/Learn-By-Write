@@ -10,3 +10,4 @@ Comparison or relation operations let you compare two values and determine the r
 - `is not` negated object identity
 - `in` membership
 - `not in` negated membership
+The result of applying these operators is always bool.
