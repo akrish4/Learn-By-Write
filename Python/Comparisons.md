@@ -12,3 +12,6 @@ Comparison or relation operations let you compare two values and determine the r
 - `not in` negated membership
 
 The result of applying these operators is always bool.
+# Comparing integers
+ only integer comparison.
+
