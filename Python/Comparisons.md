@@ -15,3 +15,13 @@ The result of applying these operators is always bool.
 # Comparing integers
  only integer comparison.
 
+```
+a = 5
+b = -10
+c = 15
+
+result_1 = a < b   # False
+result_2 = a == a  # True
+result_3 = a != b  # True
+result_4 = b >= c  # False
+```
