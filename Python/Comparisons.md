@@ -15,7 +15,7 @@ The result of applying these operators is always bool.
 # Comparing integers
  only integer comparison.
 
-```
+```python
 a = 5
 b = -10
 c = 15
