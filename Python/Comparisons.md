@@ -25,3 +25,9 @@ result_2 = a == a  # True
 result_3 = a != b  # True
 result_4 = b >= c  # False
 ```
+Any expression that returns integer is a valid comparison operand too:
+
+```python
+calculated_result = a == b + c  # True
+```
+Given the defined variables a, b and c, we basically check if 5 is equal to -10 + 15, which is true.
