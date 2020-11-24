@@ -43,5 +43,4 @@ result = x < y and y <= z  # True
 ```
 In Python, there is a fancier way to write complex comparisons. It is called chaining. For example, x < y <= z is almost equivalent to the expression you saw in the last example. The difference is that y is evaluated only once.
 
-In Python, there is a fancier way to write complex comparisons. It is called chaining. For example, x < y <= z is almost equivalent to the expression you saw in the last example. The difference is that y is evaluated only once.
-
+> result = 10 < (100 * 100) <= 10000  # True, the multiplication is evaluated once
