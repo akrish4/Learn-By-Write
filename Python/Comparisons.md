@@ -32,3 +32,12 @@ calculated_result = a == b + c  # True
 ```
 Given the defined variables a, b and c, we basically check if 5 is equal to -10 + 15, which is true.
 # Comparison chaining
+Since comparison operations return boolean values, you can join them using logical operators.
+
+```
+x = -5
+y = 10
+z = 12
+
+result = x < y and y <= z  # True
+```
