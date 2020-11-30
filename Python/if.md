@@ -15,3 +15,33 @@ if biscuits >= 5:
     print("What tea do you prefer?")
 print("What about some chocolate?")
 ```
+In this example, the line "It's time for tea!", as well as "What tea do you prefer?", will be printed only if there are 5 or more biscuits. The line "What about some chocolate?" will be printed regardless of the number of biscuits.
+
+An if statement is executed only if its condition holds (the Boolean value is True), otherwise, it's skipped.
+
+Boolean values basically make it clear whether a piece of code needs to be executed or not. Since comparisons result in bool, it's always a good idea to use them as a condition.
+
+## Nested if statement
+Sometimes a condition happens to be too complicated for a simple if statement. In this case, you can use so-called nested if statements. The more if statements are nested, the more complex your code gets, which is usually not a good thing. However, this doesn't mean that you need to avoid nested if statements at all costs. Let's take a look at the code below:
+
+```python
+rainbow = "red, orange, yellow, green, blue, indigo, violet"
+warm_colors = "red, yellow, orange"
+my_color = "orange"
+
+if my_color in rainbow:
+    print("Wow, your color is in the rainbow!")
+    if my_color in warm_colors:
+        print("Oh, by the way, it's a warm color.")
+```
+
+The example above illustrates a nested if statement. If the variable my_color is a string that contains the name of a color from the rainbow, we enter the body of the first if statement. First, we print the message and then check if our color belongs to the warm colors. The membership operator in simply shows whether my_color is a substring of the respective string, rainbow or warm_colors. Just like arithmetic comparisons, it returns a boolean value.
+
+Here is what we will see in our case:
+
+```python
+Wow, your color is in the rainbow!
+Oh, by the way, it's a warm color.
+```
+When it comes to nested if statements, proper indentation is crucial, so do not forget to indent each statement that starts with the if keyword.
+
