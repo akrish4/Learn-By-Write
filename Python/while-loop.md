@@ -24,3 +24,16 @@ The variable number plays here the role of a counter – a variable that changes
 4
 Now, the number is equal to 5
 ```
+## The infinite loop
+If you delete a part of the conditional code where you increase the value of a counter, you will bump into the infinite loop. What does it mean? Since you don’t increase your variable, a condition never becomes false and can work forever. Usually, it is a logical fallacy, and you'll have to stop the loop using special statements or finishing the loop manually.
+
+Sometimes the infinite loop can be useful, e.g. in querying a client when the loop works continuously to provide the constant exchange of information with a user. You can implement it by writing True as a condition after the while header.
+
+```python
+while True:
+    ...
+```
+
+Now you are familiar with the while loop and its usage. Don’t forget about the role of a counter, otherwise, you’ll have to deal with the infinite loop. After you’ve written the code, try to "run" it as if you were a Python program. That’ll help you understand how the loop works.
+
+Programming is all about simplification, so the code should be readable, short, and clear. Don’t forget about comments and syntax. In the beginning, it may seem that the while loop is not that easy to implement, but after a couple of times, you’ll see that it’s a very useful tool.
