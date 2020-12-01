@@ -5,3 +5,12 @@ People generally don't choose Python to write fast code. The main advantages of 
 
 The condition itself (2) is written before the body of the loop (some call it the conditional code) and is checked before the body is executed. If the condition is true (3a), the iterations continue. If the condition is false (3b), the loop execution is terminated and the program control moves further to the next operation.
 ## Visualization
+If we visualize the while loop, it’ll look like this
+
+```python
+number = 0
+while number < 5:
+    print(number)
+    number += 1
+print('Now, the number is equal to 5')
+```
