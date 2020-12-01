@@ -14,3 +14,13 @@ while number < 5:
     number += 1
 print('Now, the number is equal to 5')
 ```
+The variable number plays here the role of a counter – a variable that changes its value after each iteration. In this case, the iterations continue until the number is equal to 5 (note that the program outputs the value of the number before increasing it). When the value of a counter reaches 5, the program control moves to the next operation and prints the message. Here you can see the output of this code:
+
+```python
+0
+1
+2
+3
+4
+Now, the number is equal to 5
+```
