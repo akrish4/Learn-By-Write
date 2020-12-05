@@ -8,3 +8,7 @@ Look at a simple list that stores several names of dogs' breeds:
 dog_breeds = ['corgi', 'labrador', 'poodle', 'jack russell']
 print(dog_breeds)  # ['corgi', 'labrador', 'poodle', 'jack russell']
 ```
+In the first line, we use square brackets to create a list that contains four elements and then assign it to the `dog_breeds` variable. In the second line, the list is printed through the variable's name. All the elements are printed in the same order as they were stored in the list because lists are **ordered**.
+
+Here is another list that contains five integers:
+
