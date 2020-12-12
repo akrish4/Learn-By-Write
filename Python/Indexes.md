@@ -39,6 +39,7 @@ pet = "cat"
 print(colors[3])  # IndexError: list index out of range
 print(pet[3])     # IndexError: string index out of range
 ```
+
 There is one more obstacle in your way. Imagine that you want to change one of the elements in a list. It can be easily done:
 
 ```python
@@ -47,3 +48,27 @@ colors = ['red', 'green', 'blue']
 colors[1] = 'white'
 print(colors)  # ['red', 'white', 'blue']
 ```
+
+# Negative indexes
+
+The easier way to access the elements at the end of a list or a string is to use negative indexes: the minus before the number changes your perspective in a way and you look at the sequence from the end. So, the last element of a list, in this case, has the index equal to -1, and the first element of the list has the index `-len(list)` (the length of the list).
+
+For example:
+
+```python
+colors = ['red', 'green', 'blue']
+
+last_elem = colors[-1]    # 'blue'
+second_elem = colors[-2]  # 'green'
+first_elem = colors[-3]   # 'red'
+
+pet = "cat"
+
+last_char = pet[-1]    # 't'
+second_char = pet[-2]  # 'a'
+first_char = pet[-3]   # 'c'
+```
+
+As you can see, it works the same for lists and strings.
+
+> If you write a non-existing negative index, you'll also get IndexError. Be careful with indexes to avoid off-by-one errors in your code.
