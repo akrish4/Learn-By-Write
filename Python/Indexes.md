@@ -76,3 +76,6 @@ As you can see, it works the same for lists and strings.
 The following picture shows the general concept of indexes in a list:
 
 <img src = "https://ucarecdn.com/5485f397-8a2f-4279-b534-a496fe509469/">
+
+
+Since you have learned the concept of indexes, we hope that from now on you will not encounter any difficulties when using them!
