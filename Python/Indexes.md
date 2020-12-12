@@ -72,3 +72,7 @@ first_char = pet[-3]   # 'c'
 As you can see, it works the same for lists and strings.
 
 > If you write a non-existing negative index, you'll also get IndexError. Be careful with indexes to avoid off-by-one errors in your code.
+
+The following picture shows the general concept of indexes in a list:
+
+<img src = "https://ucarecdn.com/5485f397-8a2f-4279-b534-a496fe509469/">
