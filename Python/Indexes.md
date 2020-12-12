@@ -28,3 +28,5 @@ first_char = pet[0]   # 'c'
 second_char = pet[1]  # 'a'
 third_char = pet[2]   # 't'
 ```
+
+# Potential pitfalls
