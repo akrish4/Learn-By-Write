@@ -14,7 +14,7 @@ This is a open source contribution repository , Anyone can fork , and make chang
 * Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone the forked repository to your local machine.
 ```markdown
-git clone https://github.com/akrish4/Learn-By-Write.git
+git clone https://github.com/your-username/Learn-By-Write.git
 ```
 * change the present working directory
 ```markdown
