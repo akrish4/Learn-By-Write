@@ -6,3 +6,6 @@ you must have met a programmer.
 # Indexes of elements
 To access an element of a list by its index, you need to use square brackets. 
 You add the brackets after the list and, between them, you write the index of an element you want to get.
+
+Don't forget, the indexes start at 0, so the index of the first element is 0. The index of the last element is equal to `len(list) - 1`.
+
