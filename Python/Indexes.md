@@ -39,3 +39,11 @@ pet = "cat"
 print(colors[3])  # IndexError: list index out of range
 print(pet[3])     # IndexError: string index out of range
 ```
+There is one more obstacle in your way. Imagine that you want to change one of the elements in a list. It can be easily done:
+
+```python
+colors = ['red', 'green', 'blue']
+
+colors[1] = 'white'
+print(colors)  # ['red', 'white', 'blue']
+```
