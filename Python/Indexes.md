@@ -30,3 +30,12 @@ third_char = pet[2]   # 't'
 ```
 
 # Potential pitfalls
+When using indexes, it's important to stay within the range of your sequence: you'll get an error (called IndexError) if you try to access an element with a non-existing index!
+
+```python
+colors = ['red', 'green', 'blue']
+pet = "cat"
+
+print(colors[3])  # IndexError: list index out of range
+print(pet[3])     # IndexError: string index out of range
+```
