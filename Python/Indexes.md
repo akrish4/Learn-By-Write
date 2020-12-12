@@ -9,3 +9,22 @@ You add the brackets after the list and, between them, you write the index of an
 
 Don't forget, the indexes start at 0, so the index of the first element is 0. The index of the last element is equal to `len(list) - 1`.
 
+Let's take a look at the example below:
+
+```python
+colors = ['red', 'green', 'blue']
+
+first_elem = colors[0]   # 'red'
+second_elem = colors[1]  # 'green'
+third_elem = colors[2]   # 'blue'
+```
+
+Strings work in the same way:
+
+```python
+pet = "cat"
+
+first_char = pet[0]   # 'c'
+second_char = pet[1]  # 'a'
+third_char = pet[2]   # 't'
+```
