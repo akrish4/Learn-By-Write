@@ -21,16 +21,17 @@ git clone https://github.com/your-username/Learn-By-Write.git
 cd Learn-By-Write
 ```
 * Pick a project or make a new one
+* Make a folder inside the root folders(Python/ or Java/) with folder name as `yourname_topicname` 
 * Make a new branch
 ```markdown
-git checkout -b branch-name
+git checkout -b <branch-name>
 ```
 * Make change in the repository with the new branch.
 * push the changes.
 ```markdown
 git add .
 git commit -m "Your commit Message"
-git push origin brach-name
+git push origin <brach-name>
 ```
 * Make a pull request.
 * I will check it and will merge it
