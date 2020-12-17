@@ -29,4 +29,9 @@ Bye, then!
 ```
 
 
-So, the first call prints one string, the second call of print without arguments prints, in fact, an empty line, and the last call outputs our two messages as one expression. Are you surprised by these results? Then you may learn how the print function works in more detail from its documentation. The Python documentation contains all sorts of information about the function of your interest, for example, which arguments it expects.
+So, the first call `prints` one string, the second call of `print` without arguments prints, in fact, an empty line, and the last call outputs our two messages as one expression. Are you surprised by these results? Then you may learn how the print function works in more detail from its documentation. The Python documentation contains all sorts of information about the function of your interest, for example, which arguments it expects.
+
+
+
+
+
