@@ -9,3 +9,7 @@ Whenever you decide to check out your friends' pictures on social networks or le
 
 
 <img src = "https://ucarecdn.com/2c6c7f1b-242f-4bc6-86bd-933ac84b3ef2/">
+
+
+
+Data exchange between the client and the server takes place due to the HTTP. HTTP stands for HyperText Transfer Protocol. A protocol is a set of rules and conventions that defines a uniform way to exchange data between different programs and handle errors. A Protocol is a set of specific rules by which programs or devices communicate with each other. Like a waiter in a restaurant, it accepts your requests, takes them to the server for processing, and then comes back to you with a response.
