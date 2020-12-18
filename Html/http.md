@@ -1,4 +1,5 @@
 # HyperText Transfer Protocol
+
 - What is HTTP?
 
 Whenever you decide to check out your friends' pictures on social networks or leave them a message, watch a funny video with kittens, or find the meaning of an unknown term in the search engine, the device (client) from which you surf the Internet sends a request to the server and receives a response from it.
@@ -7,4 +8,4 @@ Whenever you decide to check out your friends' pictures on social networks or le
 
 
 
-<img src = " https://ucarecdn.com/2c6c7f1b-242f-4bc6-86bd-933ac84b3ef2/" >
+<img src = "https://ucarecdn.com/2c6c7f1b-242f-4bc6-86bd-933ac84b3ef2/">
