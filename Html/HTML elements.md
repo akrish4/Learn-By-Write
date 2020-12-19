@@ -19,8 +19,11 @@
  
  The result will be displayed in the browser as follows
  
+ <center>
  <img src = "https://ucarecdn.com/1024eb97-7526-4cf8-ba09-e5375fd02910/-/crop/281x277/663,394/-/preview/">
-
+  <center>
+   
 ```
 It is recommended to use only one <h1> tag on a web page -- this should be the title showing the main theme of the page.
 ```
+ - <p> defines a paragraph of text
