@@ -55,4 +55,9 @@ It is recommended to use only one <h1> tag on a web page -- this should be the t
 
 By default, any number of spaces occurring in the code in a row are shown as one on a web page. The <pre> tag displays the text as you want, with all spaces between characters
 
+
 ## `<hr>` creates a horizontal line 
+
+```
+<hr>
+```
