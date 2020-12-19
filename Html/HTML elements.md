@@ -9,7 +9,7 @@
 </div>
 ```
 
-## <h1>-<h6> are heading tags
+## `<h1>-<h6>` are heading tags
 
 ```
  <h1>Heading level 1</h1>
@@ -30,11 +30,11 @@
 It is recommended to use only one <h1> tag on a web page -- this should be the title showing the main theme of the page.
 ```
 
- ## <p> defines a paragraph of text
+ ## `<p>` defines a paragraph of text
  
 ```
  <p>It's a paragraph of the text</p>
 <p>And this is another paragraph</p>
 ```
  
- ## <pre> defines a block of formatted text
+ ## `<pre>` defines a block of formatted text
