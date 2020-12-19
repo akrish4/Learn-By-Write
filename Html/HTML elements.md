@@ -31,3 +31,4 @@ It is recommended to use only one <h1> tag on a web page -- this should be the t
  <p>It's a paragraph of the text</p>
 <p>And this is another paragraph</p>
 ```
+ - <pre> defines a block of formatted text
