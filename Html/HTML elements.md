@@ -16,5 +16,11 @@
 <h5>Heading level 5</h5>
 <h6>Heading level 6</h6>
  ```
+ 
  The result will be displayed in the browser as follows
+ 
  <img src = "https://ucarecdn.com/1024eb97-7526-4cf8-ba09-e5375fd02910/-/crop/281x277/663,394/-/preview/">
+
+```
+It is recommended to use only one <h1> tag on a web page -- this should be the title showing the main theme of the page.
+```
