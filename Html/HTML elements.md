@@ -7,7 +7,9 @@
   <p>Element p is also inside the div</p>
 </div>
 ```
+
 - <h1>-<h6> are heading tags
+ 
 ```
  <h1>Heading level 1</h1>
 <h2>Heading level 2</h2>
@@ -31,4 +33,5 @@ It is recommended to use only one <h1> tag on a web page -- this should be the t
  <p>It's a paragraph of the text</p>
 <p>And this is another paragraph</p>
 ```
- - <pre> defines a block of formatted text
+ 
+ <pre> defines a block of formatted text
