@@ -34,3 +34,22 @@ The result in the browser will look as follows:
 As you can see, the comment text is not displayed in the browser window. It is invisible for visitors of web pages, but can be very useful for developers. With these notes you can easily remember later why some particular code fragment is needed. Comments can also serve as hints for other developers who will work with your code later on.
 
 # Multi-line comments
+Comments that take up several lines are called multi-line comments. Take a look at their syntactic features:
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Multi-line comments</title>
+  </head>
+  <body>
+    <!-- 
+    It's 
+    a multi-line comment 
+    -->
+    <p>It's a paragraph of the text</p>
+  </body>
+</html>
+```
+
