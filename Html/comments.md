@@ -31,3 +31,6 @@ The result in the browser will look as follows:
 
 <img src="https://ucarecdn.com/3c005cb0-89d6-478d-81f0-aa93f2c86af1/-/crop/521x165/67,27/-/preview/">
 
+As you can see, the comment text is not displayed in the browser window. It is invisible for visitors of web pages, but can be very useful for developers. With these notes you can easily remember later why some particular code fragment is needed. Comments can also serve as hints for other developers who will work with your code later on.
+
+# Multi-line comments
