@@ -21,7 +21,7 @@ git clone https://github.com/your-username/Learn-By-Write.git
 cd Learn-By-Write
 ```
 * Pick a project or make a new one
-* Make a folder inside the root folders(Python/ or Java/) with folder name as `yourname_topicname` 
+* Make a folder inside the root folders(Python/ or Java/) with folder name , insde it put your code files. 
 * Make a new branch
 ```markdown
 git checkout -b <branch-name>
