@@ -43,7 +43,7 @@ git clone https://github.com/<your-github-username>/Learn-By-Write.git
 cd Learn-By-Write
 ```
 **4.** Make a folder inside the root folders(Python/ or Java/) with folder name , insde it put your code files.
-**5.** Make a new branch
+**5.** Make a feature branch
 ```bash
 git checkout -b <branch-name>
 
@@ -63,7 +63,7 @@ git commit -m "<your_commit_message>"
 **8.** Push your local commits to the remote repo.
 
 ```bash
-git push
+git push origin <brach-name>
 ```
 
 **9.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
