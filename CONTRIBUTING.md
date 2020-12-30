@@ -42,10 +42,15 @@ git clone https://github.com/<your-github-username>/Learn-By-Write.git
 ```bash
 cd Learn-By-Write
 ```
+**4.** Make a folder inside the root folders(Python/ or Java/) with folder name , insde it put your code files.
+**5.** Make a new branch
+```bash
+git checkout -b <branch-name>
 
-**4.** Make changes in source code.
+```
+**6.** Make changes in source code.
 
-**5.** Stage your changes and commit
+**7.** Stage your changes and commit
 
 ```bash
 #Add changes to Index
@@ -55,15 +60,15 @@ git add .
 git commit -m "<your_commit_message>"
 ```
 
-**7.** Push your local commits to the remote repo.
+**8.** Push your local commits to the remote repo.
 
 ```bash
 git push
 ```
 
-**8.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
+**9.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
-**9.** **Congratulations!** Sit and relax, you've made your contribution to [COVID-19-Tracker](https://github.com/akrish4/Learn-By-Write) project.
+**10.** **Congratulations!** Sit and relax, you've made your contribution to [COVID-19-Tracker](https://github.com/akrish4/Learn-By-Write) project.
 
 
 ***:trophy: After this, project leaders and mentors will review the changes and will merge your PR if they are found good, otherwise we will suggest the required changes.***
