@@ -17,10 +17,10 @@ Refer to the following articles on the basics of Git and Github and can also con
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- Take a look at the Existing [Issues](https://github.com/thinktocode/COVID-19-Tracker/issues) or create your own Issues!
+- Take a look at the Existing [Issues](https://github.com/akrish4/Learn-By-Write/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
-- Read the [Code of Conduct](https://github.com/thinktocode/COVID-19-Tracker/blob/main/CODE_OF_CONDUCT.md)
+- Read the [Code of Conduct](https://github.com/akrish4/Learn-By-Write/blob/main/CODE_OF_CONDUCT.md)
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
 
@@ -28,7 +28,7 @@ Refer to the following articles on the basics of Git and Github and can also con
 
 ## ⭐HOW TO MAKE A PULL REQUEST:
 
-**1.** Fork [this](https://github.com/thinktocode/COVID-19-Tracker) repository.
+**1.** Fork [this](https://github.com/akrish4/Learn-By-Write) repository.
 Click on the <a href="https://github.com/thinktocode/COVID-19-Tracker"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
 
 **2.** Clone the forked repository. Open terminal and type:
@@ -63,7 +63,7 @@ git push
 
 **8.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
-**9.** **Congratulations!** Sit and relax, you've made your contribution to [COVID-19-Tracker](https://github.com/thinktocode/COVID-19-Tracker) project.
+**9.** **Congratulations!** Sit and relax, you've made your contribution to [COVID-19-Tracker](https://github.com/akrish4/Learn-By-Write) project.
 
 
 ***:trophy: After this, project leaders and mentors will review the changes and will merge your PR if they are found good, otherwise we will suggest the required changes.***
@@ -92,6 +92,6 @@ For major changes, you are welcomed to open an issue  about what you would like 
 <p align = "center">
 
 <a href="https://github.com/thinktocode"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/thinktocode/COVID-19-Tracker)
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/akrish4/Learn-By-Write)
 
 </p>
