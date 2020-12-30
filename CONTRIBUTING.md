@@ -34,13 +34,13 @@ Click on the <a href="https://github.com/thinktocode/COVID-19-Tracker"><img src=
 **2.** Clone the forked repository. Open terminal and type:
 
 ```bash
-git clone https://github.com/<your-github-username>/COVID-19-Tracker
+git clone https://github.com/<your-github-username>/Learn-By-Write
 ```
 
 **3.** Navigate to the project directory.
 
 ```bash
-cd COVID-19-Tracker
+cd Learn-By-Write
 ```
 
 **4.** Make changes in source code.
@@ -91,7 +91,7 @@ For major changes, you are welcomed to open an issue  about what you would like 
 
 <p align = "center">
 
-<a href="https://github.com/thinktocode"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
+<a href="https://github.com/akrish4"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/akrish4/Learn-By-Write)
 
 </p>
