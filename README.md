@@ -10,7 +10,10 @@ This is a open source contribution repository , Anyone can fork , and make chang
 * Make Changes. 
 
    
-### How to Contribute to this repository
+### 💥 How to Contribute ?
+- If you wish to contribute kindly check the CONTRIBUTING.md🤝
+
+
 * Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone the forked repository to your local machine.
 ```markdown
