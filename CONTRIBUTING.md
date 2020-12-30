@@ -43,6 +43,7 @@ git clone https://github.com/<your-github-username>/Learn-By-Write.git
 cd Learn-By-Write
 ```
 **4.** Make a folder inside the root folders(Python/ or Java/) with folder name , insde it put your code files.
+
 **5.** Make a feature branch
 ```bash
 git checkout -b <branch-name>
@@ -68,7 +69,7 @@ git push origin <brach-name>
 
 **9.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
-**10.** **Congratulations!** Sit and relax, you've made your contribution to [COVID-19-Tracker](https://github.com/akrish4/Learn-By-Write) project.
+**10.** **Congratulations!** Sit and relax, you've made your contribution to [Learn-By-Write](https://github.com/akrish4/Learn-By-Write) project.
 
 
 ***:trophy: After this, project leaders and mentors will review the changes and will merge your PR if they are found good, otherwise we will suggest the required changes.***
