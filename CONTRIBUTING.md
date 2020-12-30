@@ -20,7 +20,7 @@ Refer to the following articles on the basics of Git and Github and can also con
 - Take a look at the Existing [Issues](https://github.com/akrish4/Learn-By-Write/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
-- Read the [Code of Conduct](https://github.com/akrish4/Learn-By-Write/blob/main/CODE_OF_CONDUCT.md)
+- Read the [Code of Conduct](https://github.com/akrish4/Learn-By-Write/blob/master/CODE_OF_CONDUCT.md)
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
 
@@ -29,12 +29,12 @@ Refer to the following articles on the basics of Git and Github and can also con
 ## ⭐HOW TO MAKE A PULL REQUEST:
 
 **1.** Fork [this](https://github.com/akrish4/Learn-By-Write) repository.
-Click on the <a href="https://github.com/thinktocode/COVID-19-Tracker"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
+Click on the <a href="https://github.com/akrish4/Learn-By-Write"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
 
 **2.** Clone the forked repository. Open terminal and type:
 
 ```bash
-git clone https://github.com/<your-github-username>/Learn-By-Write
+git clone https://github.com/<your-github-username>/Learn-By-Write.git
 ```
 
 **3.** Navigate to the project directory.
