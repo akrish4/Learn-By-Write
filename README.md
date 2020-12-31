@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/akrish4/Learn-By-Write/issues)
-[![LinkedIn](https://img.shields.io/github/license/akrish4/Learn-By-Write?style=flat-square)](https://github.com/akrish4/Learn-By-Write)
+[![License](https://img.shields.io/github/license/akrish4/Learn-By-Write?style=flat-square)](https://github.com/akrish4/Learn-By-Write)
 [![Forks](https://img.shields.io/github/forks/akrish4/Learn-By-Write.svg?logo=github)](https://github.com/akrish4/Learn-By-Write/network/members)
 [![Stargazers](https://img.shields.io/github/stars/akrish4/Learn-By-Write.svg?logo=github)](https://github.com/akrish4/Learn-By-Write/stargazers)
 [![Issues](https://img.shields.io/github/issues/akrish4/Learn-By-Write.svg?logo=github)](https://github.com/akrish4/Learn-By-Write/issues)
