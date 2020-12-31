@@ -4,7 +4,7 @@
 <h1 align= "center"><b>Learn-By-Write</b></h1> 
 
 <div align= "center">
-  <h3> This is a open source contribution repository , Anyone can fork , and make changes and  make a PR , Happy Learning.</h3>
+  <h3> This is a open source contribution repository , Anyone can fork , and add any topic like cpp , perl and add contents  and  make a PR , Happy Learning.</h3>
 </div>
 
 
