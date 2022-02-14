@@ -30,7 +30,7 @@
 
    
 ### 💥 How to Contribute ?
-- If you wish to contribute kindly check the [CONTRIBUTING.md](https://github.com/banerjeesoumya15/Learn-By-Write/blob/update-readme/CONTRIBUTING.md)🤝
+- If you wish to contribute kindly check the [CONTRIBUTING.md](https://github.com/akrish4/Learn-By-Write/blob/master/CONTRIBUTING.md)🤝
 
 
 
